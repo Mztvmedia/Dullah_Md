@@ -37,7 +37,7 @@
 "AUTO_BIO":
     {
       "description":"Enter yes for your bot to auto bio",
-      "value":"no",
+      "value":"yes",
       "required":false
     },
      "AUTO_READ":
@@ -49,19 +49,19 @@
       "AUTO_REACT_STATUS":
     {
       "description":"Enter yes for your bot to auto react status",
-      "value":"yes",
+      "value":"no",
       "required":false
     },
     "AUDIO_REPLY":
     {
       "description":"Enter yes for your bot to audio reply",
-      "value":"yes",
+      "value":"no",
       "required":false
     },
     "CHATBOT":
     {
       "description":"Enter yes for your bot to auto reply messages",
-      "value":"yes",
+      "value":"no",
       "required":false
     },
     "BLOCK_ALL": {
@@ -81,7 +81,7 @@
     },
     "BOT_NAME": {
       "description": "put A name for your bot",
-      "value": "DULLAH-MD",
+      "value": "꧁𝑬𝒍𝒐𝒏 𝑴𝒖𝒔𝒌 𝑻𝑽꧂",
       "required": false
     },
     "BOT_MENU_LINKS": {
@@ -91,7 +91,7 @@
     },
     "PUBLIC_MODE": {
       "description": "type yes to put your bot on public mode or no to put it on private mod",
-      "value": "yes",
+      "value": "no",
       "required": false 
     },
     "HEROKU_APY_KEY": {
@@ -112,12 +112,12 @@
     "OWNER_NAME": {
       "desc": "Your Name",
       "required": false,
-      "value": "DULLAH MD"
+      "value": "꧁𝑬𝒍𝒐𝒏 𝑴𝒖𝒔𝒌 𝑻𝑽꧂"
     },
     "NUMERO_OWNER": {
       "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
       "required": false,
-      "value": "255716945971"
+      "value": "2349023611268"
     },
     "WARN_COUNT": {
       "desc": "this is the limit of warn for warning commandes",
@@ -136,7 +136,7 @@
     },
     "ANTI_DELETE_MESSAGE": {
       "description": "if you want to enable anti delete message put yes else put no",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "ANTICALL": {
@@ -147,7 +147,7 @@
     "AUTO_REACTION": {
       "description": "Put yes if you want the bot to react to messages in private",
       "required": false,
-      "value": "yes"
+      "value": "no"
     }
   },
   "formation": {
